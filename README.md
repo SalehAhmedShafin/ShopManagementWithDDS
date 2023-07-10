@@ -34,6 +34,7 @@ Fragmentation Schema:
 Product1: SLBranch=’Dhaka’ Product
 Product2: SLBranch=’Rangpur’ Product
 Allocation Schema: Product1 at site 1. Product2 at site 2.
+
 Distributed database a good choice 
 A shop management system project may need a distributed database for several reasons:
 Scalability: A distributed database can handle large amounts of data and can easily scale to 
